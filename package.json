@@ -24,7 +24,7 @@
     "@fullcalendar/daygrid": "6.1.15",
     "@fullcalendar/react": "6.1.15",
     "@fullcalendar/timegrid": "6.1.15",
-    "@ionic/react": "8.3.0",
+    "@ionic/react": "8.3.2",
     "@ionic/react-router": "8.3.0",
     "@ionic/storage": "latest",
     "@types/react-router": "latest",
